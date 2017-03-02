@@ -1,3 +1,21 @@
 h1{
   text-align: center;
 }
+h2{
+  color: pink;
+}
+div{
+  border: outset 5px black;
+  margin: auto;
+  position: relative;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  min-height: 150px;
+}
+
+img{
+  position: absolute;
+  float: right;
+  right: 5px;
+  top: 5px;
+}
